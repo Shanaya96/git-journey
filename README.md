@@ -1,4 +1,4 @@
-# ThreatLens: A Latency-Aware Hybrid Escalation Architecture for Malicious URL Detection with Regional Retrieval-Augmented Reasoning
+# URLSentinel: A Latency-Aware Hybrid Escalation Architecture for Malicious URL Detection with Regional Retrieval-Augmented Reasoning
 
 ------------------------------------------------------------------------
 
